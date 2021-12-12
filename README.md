@@ -3,4 +3,4 @@ https://ssarunyu.vercel.app
 
 **Student from Bodindecha (Sing Singhaseni) 2**
 
-Skills: HTML / CSS / JS / Graphic design
+Skills: HTML / CSS / Javascript / Graphic design
