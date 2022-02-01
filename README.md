@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sarunyu Supokhai</h1>
-<h3 align="center">Rookie Frontend Developer / Graphic Designer</h3>
+<h3 align="center">A passionate frontend developer student / Graphic Designer</h3>
 
 ![68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966](https://user-images.githubusercontent.com/83624614/151798310-1ee270e7-0cef-427d-b567-47d41dc58743.gif)
 
