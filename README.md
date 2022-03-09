@@ -9,8 +9,6 @@
 
 </div>
 
-- 🌱 I’m currently learning **Javascript**
-
 - 💖 All of my projects are available at https://sarunyu.vercel.app/
 
 <div align="center">
