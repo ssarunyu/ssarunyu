@@ -1,5 +1,3 @@
-![download](https://user-images.githubusercontent.com/83624614/170744598-9f1d3d4a-0188-452d-8177-328fae585631.png)
-  
 <h3>👨🏽‍🎓 Now</h3>
 <p>Information Technology KMUTT</p>
 
