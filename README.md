@@ -1,23 +1,49 @@
-<h3>👨🏽‍🎓 Now</h3>
-<p>Information Technology KMUTT</p>
+<h2 align="left">Hi there 👋✨ *◞ˊˎ -</h2>
 
-<h3>📝Social links</h3>
+###
 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sarxnyu/)
-[<img src="https://img.shields.io/badge/behance-%231877F2.svg?&style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/ssarunyu04)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssarunyu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssarunyu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="250" src="https://media.tenor.com/RQxJd4xNNDYAAAAd/chainsaw-man-anime.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/sarxnyu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
+  </a>
+  <a href="discordapp.com/users/335704331905138689" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
+  </a>
+  <a href="https://www.behance.net/ssarunyu04" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="behance logo"  />
+  </a>
+</div>
 
 <h3>🎵 Now playing...</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ob4jzsy577re3dbbmtrz5e6fty&cover_image=true&theme=natemoo-re&bar_color=5bc157&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ob4jzsy577re3dbbmtrz5e6fty&redirect=true)
-
-<a href="https://github.com/ssarunyu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ssarunyu&show_icons=true&theme=calm" />
-</a>
-  
-<br>
-<br>
-  
-<a href="https://github.com/anuraghazra/ssarunyu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssarunyu&layout=compact" />
-</a>
-
+###
