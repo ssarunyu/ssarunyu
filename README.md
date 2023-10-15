@@ -1,7 +1,7 @@
 <h3>👨🏽‍🎓 Now</h3>
 <p>Information Technology KMUTT</p>
 
-<h3>📝Contact me</h3>
+<h3>📝Social links</h3>
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sarxnyu/)
 [<img src="https://img.shields.io/badge/behance-%231877F2.svg?&style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/ssarunyu04)
