@@ -1,15 +1,12 @@
-<h2 align="left">Hi there 👋✨ *◞ˊˎ -</h2>
+###
+
+![ssarunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssarunyu&show_icons=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssarunyu&layout=compact&theme=vue-dark)
+![ssarunyu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ssarunyu)
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssarunyu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ssarunyu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="250" src="https://media.tenor.com/RQxJd4xNNDYAAAAd/chainsaw-man-anime.gif"  />
+<img height="250" src="https://media.tenor.com/RQxJd4xNNDYAAAAd/chainsaw-man-anime.gif"  />
 
 ###
 
@@ -43,7 +40,5 @@
   </a>
 </div>
 
-<h3>🎵 Now playing...</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ob4jzsy577re3dbbmtrz5e6fty&cover_image=true&theme=natemoo-re&bar_color=5bc157&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31ob4jzsy577re3dbbmtrz5e6fty&redirect=true)
 ###
