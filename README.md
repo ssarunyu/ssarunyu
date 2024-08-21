@@ -2,7 +2,9 @@
 
 ![ssarunyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssarunyu&show_icons=true&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssarunyu&layout=compact&theme=vue-dark)
-![ssarunyu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ssarunyu)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###
 
