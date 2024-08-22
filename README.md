@@ -4,6 +4,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssarunyu&layout=compact&theme=vue-dark)
 
 <!--START_SECTION:waka-->
+
+```txt
+Java              4 hrs 31 mins   ████████████████▒░░░░░░░░   65.93 %
+JavaScript        1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
+Vue.js            30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Java Properties   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+XML               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
