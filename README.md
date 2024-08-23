@@ -6,11 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 31 mins   ████████████████▒░░░░░░░░   65.93 %
-JavaScript        1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-Vue.js            30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Java Properties   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-XML               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Total Time: 199 hrs 20 mins
+
+Vue.js            125 hrs 19 mins ███████████████▓░░░░░░░░░   62.05 %
+JavaScript        26 hrs 1 min    ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
+Java              20 hrs 40 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+TypeScript        5 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+JSON              3 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
