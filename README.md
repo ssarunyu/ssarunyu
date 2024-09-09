@@ -9,7 +9,7 @@
 Total Time: 206 hrs 9 mins
 
 Vue.js            127 hrs 34 mins ███████████████▒░░░░░░░░░   61.04 %
-JavaScript        27 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+JavaScript        27 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
 Java              21 hrs 56 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
 TypeScript        5 hrs 12 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 Java Properties   3 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
