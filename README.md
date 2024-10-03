@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 224 hrs 12 mins
+Total Time: 228 hrs 9 mins
 
-Vue.js            138 hrs 19 mins ███████████████▒░░░░░░░░░   60.93 %
-JavaScript        33 hrs 44 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Java              22 hrs 52 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-TypeScript        5 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Java Properties   3 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Vue.js            139 hrs 12 mins ███████████████░░░░░░░░░░   60.26 %
+JavaScript        36 hrs 48 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+Java              22 hrs 52 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+TypeScript        5 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Java Properties   3 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
