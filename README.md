@@ -1,6 +1,5 @@
 # Sarunyu's
-<p>Currently in a <strong>Quality Assurance Internship</strong></p>
-<p>3rd year student at School Of Infomation Technology KMUTT</p>
+<p>4th year student at School Of Infomation Technology KMUTT</p>
 <p>Full time Noodle enjoyer, Tifosi (with crying noise) and Javascript hater</p>
 
 <!--START_SECTION:waka-->
