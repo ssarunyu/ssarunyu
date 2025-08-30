@@ -21,6 +21,7 @@ Go                7 hrs 23 mins   ▓░░░░░░░░░░░░░░�
 
 Some Flex:
 - UX/UI Speaker SIT Hello World 2023
+- QA Speaker InternSIT 2025
 
 Random Stuff I Made:
 - [Black Dog Hall Of Fame](https://bdoghalloffame.vercel.app/)
