@@ -16,7 +16,7 @@ Go                7 hrs 23 mins   ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,java,spring,react,vue,mysql,mongodb,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,vue,mysql,docker,linux" />
 </div>
 
 Some Flex:
