@@ -16,8 +16,3 @@ Java                       24 hrs 48 mins        █▒░░░░░░░░�
 
 random stuff i made:
 - [Black Dog Hall Of Fame](https://bdoghalloffame.vercel.app/)
-- [jsmaifin a javascript summary repository](https://github.com/ssarunyu/js-maifin)
-- [Bentify](https://bentify.vercel.app/)
-- [Kdle](https://kdle.vercel.app/)
-- [Grade Calculator](https://grade-calculator-virid.vercel.app/)
-- [VocabHub (as a dek65 who struggle to remember vocabulary)](https://vocabhub.vercel.app/)
